@@ -1,0 +1,147 @@
+[
+    {
+      "id": "1",
+      "title": "How to Cook Pasta Perfectly",
+      "description": "Learn the secrets to cooking pasta perfectly every time.",
+      "channelName": "Tasty Recipes",
+      "views": "120K",
+      "likes": 1450,
+      "dislikes": 32,
+      "img": "/public/image/R (1).png",
+      "uploadDate": "1 yr ago",
+      "category": "Cooking"
+    },
+    {
+      "id": "2",
+      "title": "10 Minute Morning Yoga",
+      "description": "A quick and energizing yoga routine to start your day.",
+      "channelName": "Yoga Life",
+      "views": "85K",
+      "likes": 1850,
+      "dislikes": 10,
+      "img": "/public/image/yoga (1).jpg",
+      "uploadDate": "2 yrs ago",
+      "category": "Fitness"
+    },
+    {
+      "id": "3",
+      "title": "Top 5 Programming Languages in 2024",
+      "description": "An analysis of the best programming languages to learn in 2024.",
+      "channelName": "Tech Insights",
+      "views": "345K",
+      "likes": 7890,
+      "dislikes": 43,
+      "img": "/public/image/language (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Technology"
+    },
+    {
+      "id": "4",
+      "title": "Unboxing the Latest Smartphone",
+      "description": "First impressions and features of the newest smartphone.",
+      "channelName": "Gadget Hub",
+      "views": "243K",
+      "likes": 1200,
+      "dislikes": 25,
+      "img": "/public/image/unboxing (1).jpg",
+      "uploadDate": "2 yrs ago",
+      "category": "Gadgets"
+    },
+    {
+      "id": "5",
+      "title": "Meditation for Beginners",
+      "description": "Simple techniques to start your meditation journey.",
+      "channelName": "Mindful Moments",
+      "views": "127K",
+      "likes": 990,
+      "dislikes": 12,
+      "img": "/public/image/meditation (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Mindfulness"
+    },
+    {
+      "id": "6",
+      "title": "DIY Home Decor Ideas",
+      "description": "Creative and easy home decor projects.",
+      "channelName": "Crafty Hands",
+      "views": "56K",
+      "likes": 550,
+      "dislikes": 8,
+      "img": "/public/image/diy (1).jpg",
+      "uploadDate": "2 yrs ago",
+      "category": "DIY"
+    },
+    {
+      "id": "7",
+      "title": "Best Hiking Trails in the World",
+      "description": "A guide to the most beautiful hiking trails around the globe.",
+      "channelName": "Adventure Seekers",
+      "views": "234K",
+      "likes": 3400,
+      "dislikes": 20,
+      "img": "/public/image/hiking (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Travel"
+    },
+    {
+      "id": "8",
+      "title": "Learn React in 15 Minutes",
+      "description": "A quick introduction to React for beginners.",
+      "channelName": "Code Academy",
+      "views": "123K",
+      "likes": 2500,
+      "dislikes": 18,
+      "img": "/public/image/react (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Technology"
+    },
+    {
+      "id": "9",
+      "title": "Amazing Street Food Around the World",
+      "description": "A journey through the best street food scenes worldwide.",
+      "channelName": "Food Explorers",
+      "views": "765K",
+      "likes": 9200,
+      "dislikes": 55,
+      "img": "/public/image/street (1).jpg",
+      "uploadDate": "2 yrs ago",
+      "category": "Food"
+    },
+    {
+      "id": "10",
+      "title": "Epic Fails Compilation",
+      "description": "The funniest fail moments captured on camera.",
+      "channelName": "Laughs Unlimited",
+      "views": "985K",
+      "likes": 11300,
+      "dislikes": 80,
+      "img": "/public/image/epic (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Comedy"
+    },
+    {
+      "id": "11",
+      "title": "Gaming Setup Tour 2024",
+      "description": "A walkthrough of the ultimate gaming setup.",
+      "channelName": "Gamer World",
+      "views": "432K",
+      "likes": 5900,
+      "dislikes": 27,
+      "img": "/public/image/game (1).jpg",
+      "uploadDate": "2 yrs ago",
+      "category": "Gaming"
+    },
+    {
+      "id": "12",
+      "title": "History of the Internet",
+      "description": "How the internet has evolved over the decades.",
+      "channelName": "History Buffs",
+      "views": "134K",
+      "likes": 1450,
+      "dislikes": 12,
+      "img": "/public/image/internet (1).jpg",
+      "uploadDate": "1 yr ago",
+      "category": "Education"
+    }
+  ]
+  
